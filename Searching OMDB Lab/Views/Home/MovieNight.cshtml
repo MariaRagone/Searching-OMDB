@@ -1,5 +1,31 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model MovieModel
+<form asp-method="post" asp-action="MovieNight">
+    <h1>Search for 3 movies.</h1>
+    <p>Enter title.</p>
+    <input type="text" name="title" />
+
+    <p>Enter title.</p>
+    <input type="text" name="title" />
+
+    <p>Enter title.</p>
+    <input type="text" name="title" />
+
+
+    <p>
+        <input type="submit" />
+    </p>
+
+</form>
+
 @{
+    if (Model != null)
+        foreach (Rating m in Model.Ratings)
+        {
+            <div>
+                <h1>@m.Value</h1>
+                <p>@m.</p>
+                <p>@m.Actors</p>
+                <img @m.Poster />
+            </div>
+        }
 }
