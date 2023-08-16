@@ -1,0 +1,33 @@
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.AssemblyInfo.cs
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.RazorAssemblyInfo.cache
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.RazorAssemblyInfo.cs
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\bin\Debug\net6.0\appsettings.json
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\bin\Debug\net6.0\Searching OMDB Lab.staticwebassets.runtime.json
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\bin\Debug\net6.0\Searching OMDB Lab.exe
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\bin\Debug\net6.0\Searching OMDB Lab.deps.json
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\bin\Debug\net6.0\Searching OMDB Lab.runtimeconfig.json
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\bin\Debug\net6.0\Searching OMDB Lab.dll
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\bin\Debug\net6.0\Searching OMDB Lab.pdb
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\staticwebassets\msbuild.Searching OMDB Lab.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\staticwebassets\msbuild.build.Searching OMDB Lab.props
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Searching OMDB Lab.props
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Searching OMDB Lab.props
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\scopedcss\bundle\Searching OMDB Lab.styles.css
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\scopedcss\projectbundle\Searching OMDB Lab.bundle.scp.css
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.csproj.CopyComplete
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.dll
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\refint\Searching OMDB Lab.dll
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.pdb
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\Searching OMDB Lab.genruntimeconfig.cache
+C:\Users\maria\source\repos\Searching OMDB Lab\Searching OMDB Lab\obj\Debug\net6.0\ref\Searching OMDB Lab.dll

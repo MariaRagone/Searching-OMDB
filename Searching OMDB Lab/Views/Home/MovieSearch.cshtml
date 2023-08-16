@@ -1,0 +1,25 @@
+﻿
+@model MovieModel
+<form asp-method="post" asp-action="MovieSearch">
+    <h1>Search for a Movie.</h1>
+    <p>Enter title.</p>
+    <input type="text" name="title" />
+
+    <p>
+        <input type="submit" />
+    </p>
+
+</form>
+
+@{
+    if (Model != null)
+        foreach (Rating m in Model.Ratings)
+        {
+            <div>
+                <h1>@m.Value</h1>
+                <p>@m.</p>
+                <p>@m.Actors</p>
+                <img @m.Poster/>
+            </div>
+        }
+}
