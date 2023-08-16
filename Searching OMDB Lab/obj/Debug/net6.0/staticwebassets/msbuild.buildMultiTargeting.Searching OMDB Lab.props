@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Searching OMDB Lab.props" />
-</Project>
